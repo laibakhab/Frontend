@@ -4,3 +4,4 @@
 - Gazebo simulation implementation
 - Isaac-based perception pipeline
 - Capstone: Simulated humanoid robot with conversational AI
+        
